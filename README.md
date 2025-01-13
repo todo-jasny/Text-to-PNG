@@ -8,10 +8,10 @@ Their is also a decoder included with the program wich esentially reverse the ab
 Their is also 3 custom modules contained with the project. PNGify, UniVerse, and loading.
 
 **PNGify**
-This handles the writing and reading of PNG's. Please view it's [repository](https://github.com/todo-jasny/PNGify) for more information on what it does and how it works.
+This handles the writing and reading of PNG's. Please view it's [repository](https://github.com/todo-jasny/PNGify) for more information and it's latest version..
 
 **UniVerse**
-UniVerse handles the encoding and decoding of its included methods. It has a class for each encoding method. They include subcasses to handel encoding and decoding seperatly.
+UniVerse handles the encoding and decoding of its included methods. Please views it's [repository](https://github.com/todo-jasny/UniVerse) for more inforation and its latest verision.
 
 **Loading**
 Loading is a module to handle loading animation for the program.
